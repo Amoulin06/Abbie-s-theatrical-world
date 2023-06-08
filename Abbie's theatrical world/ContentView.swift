@@ -26,7 +26,7 @@ struct ContentView: View {
                     .frame(height: 100.0)
                
                 Button ("This Is Me"){
-                    passion = "I am Abbie! I am a lot of things but one of my  biggest things I'm involved in is Theatre! In theatre I am stage manager, lead spot op, and secertary. This last year we performed three major productions, 2 two-night events, and 3 one-night events."
+                    passion = "I am Abbie, I am a lot of things but one of my  biggest things I'm involved in is Theatre! In theatre I am stage manager, lead spot op, and secertary. This last year we performed three major productions, 2 two-night events, and 3 one-night events."
                     
                 }
                     .font(.title)
